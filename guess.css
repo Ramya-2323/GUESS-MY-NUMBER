@@ -1,5 +1,3 @@
-@import url('https://fonts.googleapis.com/css?family=Press+Start+2P&display=swap');
-
 * {
   margin: 0;
   padding: 0;
@@ -15,7 +13,6 @@ body {
   font-family: 'Press Start 2P', sans-serif;
   color: #eee;
   background-color: #222;
-  /* background-color: #60b347; */
 }
 
 /* LAYOUT */
@@ -44,8 +41,6 @@ main {
   width: 52rem;
   font-size: 2rem;
 }
-
-/* ELEMENTS STYLE */
 h1 {
   font-size: 4rem;
   text-align: center;
