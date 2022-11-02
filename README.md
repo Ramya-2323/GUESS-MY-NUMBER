@@ -1,3 +1,2 @@
-objec
-so
-har
+Languages used:HTML,CSS,Javascript
+It is an dynamic website
